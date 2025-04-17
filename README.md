@@ -13,8 +13,11 @@ Praktikum 4: Data Fetching dengan SWR
 
   ![image](https://github.com/user-attachments/assets/135b16c5-a9c1-48fc-b7b3-25f4bf7d7343)
 
+Praktikum 5: URL State Management
 
+  ![image](https://github.com/user-attachments/assets/836f347e-cc8b-4c38-bbf4-132b696e4859)
 
+--------------------------------------------------------------------------------------------------------
 **TUGAS**
 1. Bandingkan performa antara Context API, Zustand, dan Redux
 2. Diskusikan kapan sebaiknya menggunakan masing-masing solusi
