@@ -20,11 +20,16 @@ Praktikum 5: URL State Management
 --------------------------------------------------------------------------------------------------------
 **TUGAS**
 1. Bandingkan performa antara Context API, Zustand, dan Redux
-     ~ Context API :
-     ~ Zustand :
-     ~ Redux :
+
+     ~ Context API : Cocok untuk state yang jarang berubah (seperti: tema, login)
+   
+     ~ Zustand : ringan dan cepat, cocok untuk performa tinggi
+
+     ~ Redux : Stabil untuk aplikasi besar, tapi sedikit lebih kompleks
+   
 3. Diskusikan kapan sebaiknya menggunakan masing-masing solusi
-     ~ Context API : Aplikasi kecil-menengah dan untuk state global sederhana seperti login, tema, dan preferensi.
+   
+     ~ Context API : Aplikasi kecil-menengah dan untuk state global sederhana seperti login dan tema.
    
      ~ Zustand : Aplikasi menengah-besar, aplikasi yang butuh state management yang ringan dan cepat serta minim boilerplate tapi tetap powerful.
    
