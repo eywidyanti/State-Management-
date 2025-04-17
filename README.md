@@ -25,5 +25,7 @@ Praktikum 5: URL State Management
      ~ Redux :
 3. Diskusikan kapan sebaiknya menggunakan masing-masing solusi
      ~ Context API : Aplikasi kecil-menengah dan untuk state global sederhana seperti login, tema, dan preferensi.
+   
      ~ Zustand : Aplikasi menengah-besar, aplikasi yang butuh state management yang ringan dan cepat serta minim boilerplate tapi tetap powerful.
+   
      ~ Redux : Aplikasi besar atau kompleks dan aplikasi dikerjakan dengan kolaborasi tim, 
