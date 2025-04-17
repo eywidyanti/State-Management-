@@ -10,6 +10,7 @@ Praktikum 3: Redux Toolkit dengan SSR Support
    ![image](https://github.com/user-attachments/assets/80605f2b-88a1-4d67-a0b9-dbb3da8cf991)
 
 Praktikum 4: Data Fetching dengan SWR
+  ![image](https://github.com/user-attachments/assets/135b16c5-a9c1-48fc-b7b3-25f4bf7d7343)
 
 
 
